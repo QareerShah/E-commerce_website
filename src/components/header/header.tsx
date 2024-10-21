@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
-import { FaHeart, FaSearch, FaShoppingCart, FaUserCircle } from 'react-icons/fa';
+import { FaHeart, FaSearch, FaShoppingCart, } from 'react-icons/fa';
 
 
 
