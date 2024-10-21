@@ -10,8 +10,8 @@ const SignUp = () => {
         {/* Left Section */}
         <div className="flex justify-center items-center">
           <Image
-            src="/images/login-img1.png"
-            alt="Sign up image"
+            src="/images/signup.png"
+            alt="Signupimage"
             width={700}
             height={500}
             className="object-contain"

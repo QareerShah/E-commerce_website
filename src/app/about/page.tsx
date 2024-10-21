@@ -33,7 +33,7 @@ const About = () => {
           {/* Right Side */}
           <div className='flex-1'>
             <Image 
-              src="/images/about-img1.png" 
+              src="/images/about1.png" 
               alt="Hero-section-image" 
               width={500} 
               height={500} 
@@ -122,7 +122,7 @@ const About = () => {
     <div className=' w-full h-[450px]'>
   <div className=' w-full h-[300px] flex justify-center items-center'>
     <Image 
-      src='/images/about-img2.png' 
+      src='/images/about2.png' 
       alt='about pic' 
       width={300} 
       height={300} 
@@ -141,7 +141,7 @@ const About = () => {
     <div className=' w-full h-[450px]'>
   <div className=' w-full h-[300px] flex justify-center items-center'>
     <Image 
-      src='/images/about-img3.png' 
+      src='/images/about3.png' 
       alt='about pic' 
       width={300} 
       height={300} 
@@ -156,7 +156,7 @@ const About = () => {
     <div className=' w-full h-[450px]'>
   <div className=' w-full h-[300px] flex justify-center items-center'>
     <Image 
-      src='/images/about-img4.png' 
+      src='/images/about4.png' 
       alt='about pic' 
       width={300} 
       height={300} 
