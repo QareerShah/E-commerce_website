@@ -68,14 +68,14 @@ const Footer = () => {
                   <h2 className='font-medium'>Download App</h2>
                   <p className='text-white opacity-70 whitespace-nowrap mt-4 text-[11px]'>save &#36;3 With App New User Only </p>
                                         {/* images grid */}
-                    <div className=' grid grid-cols-2 grid-rows-2 gap-1 mt-3'>
+                    <div className=' grid grid-cols-2 grid-rows-2  mt-3'>
                                       {/* image 1 */}
                       <div className=' row-span-2'>
-                           <Image src="/images/footer1.png" alt='footer=image' width={100} height={100}/>
+                           <Image src="/images/qr.png" alt='footer1' width={70} height={100}/>
                       </div>
                                       {/* image 2 */}
                       <div className=' row-span-2'>
-                      <Image src="/images/footer2.png" alt='footer-image' width={100} height={100} className='h-[90px] w-fit' /> 
+                      <Image src="/images/google-and-app-store.png" alt='footer2' width={100} height={100} className='h-[70px] w-fit' /> 
                       </div>
                                      {/* icons */}
                        <div className='flex mt-3 space-x-2'>
