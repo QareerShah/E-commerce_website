@@ -71,11 +71,11 @@ const Footer = () => {
                     <div className=' grid grid-cols-2 grid-rows-2 gap-1 mt-3'>
                                       {/* image 1 */}
                       <div className=' row-span-2'>
-                           <Image src="/images/footer-img1.png" alt='footer=image' width={100} height={100}/>
+                           <Image src="/images/footer1.png" alt='footer=image' width={100} height={100}/>
                       </div>
                                       {/* image 2 */}
                       <div className=' row-span-2'>
-                      <Image src="/images/footer-image-2.png" alt='footer-image' width={100} height={100} className='h-[90px] w-fit' /> 
+                      <Image src="/images/footer2.png" alt='footer-image' width={100} height={100} className='h-[90px] w-fit' /> 
                       </div>
                                      {/* icons */}
                        <div className='flex mt-3 space-x-2'>
